@@ -20,11 +20,11 @@
   },
   "homepage": "https://github.com/jclosadab1996/Curso-Single-Page-Application-Con-JS-Vanilla_Platzi#readme",
   "devDependencies": {
-    "@babel/core": "^7.16.7",
-    "babel-loader": "^8.2.3",
-    "html-webpack-plugin": "^5.5.0",
-    "webpack": "^5.65.0",
-    "webpack-cli": "^4.9.1",
-    "webpack-dev-server": "^4.7.2"
+    "@babel/core": "7.7.5",
+    "babel-loader": "8.0.6",
+    "html-webpack-plugin": "3.2.0",
+    "webpack": "4.41.2",
+    "webpack-cli": "3.3.10",
+    "webpack-dev-server": "3.9.0"
   }
 }
