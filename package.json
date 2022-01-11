@@ -1,0 +1,22 @@
+{
+  "name": "curso-single-page-application-con-js-vanilla_platzi",
+  "version": "1.0.0",
+  "description": "Una Single Page Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jclosadab1996/Curso-Single-Page-Application-Con-JS-Vanilla_Platzi.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": " (MIT)",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/jclosadab1996/Curso-Single-Page-Application-Con-JS-Vanilla_Platzi/issues"
+  },
+  "homepage": "https://github.com/jclosadab1996/Curso-Single-Page-Application-Con-JS-Vanilla_Platzi#readme"
+}
