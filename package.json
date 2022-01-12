@@ -1,0 +1,35 @@
+{
+  "name": "curso-single-page-application-con-js-vanilla_platzi",
+  "version": "1.0.0",
+  "description": "Una Single Page Application",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --open --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jclosadab1996/Curso-Single-Page-Application-Con-JS-Vanilla_Platzi.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": " (MIT)",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/jclosadab1996/Curso-Single-Page-Application-Con-JS-Vanilla_Platzi/issues"
+  },
+  "homepage": "https://github.com/jclosadab1996/Curso-Single-Page-Application-Con-JS-Vanilla_Platzi#readme",
+  "devDependencies": {
+    "@babel/core": "7.7.5",
+    "babel-loader": "8.0.6",
+    "html-webpack-plugin": "3.2.0",
+    "webpack": "4.41.2",
+    "webpack-cli": "3.3.10",
+    "webpack-dev-server": "3.9.0"
+  },
+  "dependencies": {
+    "copy-webpack-plugin": "^6.2.1",
+    "gh-pages": "^3.2.3"
+  }
+}
