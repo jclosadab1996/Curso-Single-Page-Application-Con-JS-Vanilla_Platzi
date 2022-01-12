@@ -29,6 +29,7 @@
     "webpack-dev-server": "3.9.0"
   },
   "dependencies": {
-    "copy-webpack-plugin": "^6.2.1"
+    "copy-webpack-plugin": "^6.2.1",
+    "gh-pages": "^3.2.3"
   }
 }
